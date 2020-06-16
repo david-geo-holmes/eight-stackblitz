@@ -21,7 +21,7 @@ ambients.push(camera)
 const dirLight = new DirectionalLight()
 ambients.push(dirLight)
 
-const box = new Box(engine, { color: Color.red })
+const box = new Box(engine, { color: Color.green })
 
 const trackball = new TrackballControls(camera, window)
 // Subscribe to mouse events from the canvas.
