@@ -1,0 +1,8 @@
+{
+  "name": "eight-example",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "davinci-eight": "^7.3.3"
+  }
+}
